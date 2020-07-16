@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hola 👋
+
+📫: this.is.omartinez @ gee mail.com
+
+I'm Omar. I've been a front-end developer for 15 years.
+
+
 
 <!--
 **Omar12/omar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
