@@ -2,7 +2,7 @@
 
 📫: this.is.omartinez @ gee mail.com
 
-I'm Omar. I've been a front-end developer for 15 years.
+I'm Omar. Front-end engineer with over 20 years of professional experience.
 
 
 
