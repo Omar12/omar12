@@ -1,4 +1,4 @@
-# Omar Martinez 👋
+# Omar Martinosa 👋
 
 Engineering Manager and hands-on product engineer with 20+ years of experience building customer-facing web applications.
 
